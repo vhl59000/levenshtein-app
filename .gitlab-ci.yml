@@ -1,0 +1,10 @@
+stages:
+  - test
+
+pytest:
+  image: python:3.11-slim
+  stage: test
+  before_script:
+    - pip install -r requirements.txt
+  script:
+    - pytest -q
