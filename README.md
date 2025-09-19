@@ -91,4 +91,3 @@ levenshtein-app/
   - Unit tests  
   - GitLab CI (pytest)  
   - Dockerfile for containerization  
-- Optional: publish Docker image to DockerHub or GitLab Registry  
