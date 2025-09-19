@@ -29,7 +29,7 @@ To satisfy the requirements, the repo has **two parts**:
 
 ### 1) Clone the repository
 ```bash
-git clone https://gitlab.code.hfactory.io/valentin.henry-leo/levenshtein.git
+git clone https://github.com/vhl59000/levenshtein-app
 cd levenshtein-app
 ```
 
